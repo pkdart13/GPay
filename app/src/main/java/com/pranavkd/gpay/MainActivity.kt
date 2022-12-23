@@ -27,7 +27,7 @@ class MainActivity : AppCompatActivity() {
             // creating a new intent
             val i = Intent(
                 this@MainActivity,
-                MainActivity2::class.java
+                Home::class.java
             )
             // on below line we are
             // starting a new activity.
