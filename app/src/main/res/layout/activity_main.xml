@@ -23,6 +23,7 @@
         android:id="@+id/textView"
         android:textStyle="bold"
         android:textColor="#BDC0C5"
+        android:fontFamily="@font/splash_font"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginBottom="32dp"
