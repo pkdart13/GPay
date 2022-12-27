@@ -9,10 +9,10 @@ import androidx.appcompat.widget.Toolbar;
 
 class Home : AppCompatActivity() {
 
-    @SuppressLint("MissingInflatedId")
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_home)
-        setSupportActionBar(findViewById(R.id.toolbar))
+
     }
 }
